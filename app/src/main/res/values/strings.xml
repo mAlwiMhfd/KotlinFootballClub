@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">List_FC_Anko</string>
+    <string-array name="nama_klub">
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+        <item>Barcelona FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Chelsea FC</item>
+        <item>Manchester City FC</item>
+   zxcaacsd <item>Manchester United FC</item>
+        <item>Real Madrid FC</item>
+    </string-array>
+    <array name="gambar_klub">
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_madrid</item>
+    </array>c
+    <string-array name="detail_klub">
+        <item>AC Milan adalah sebuat club sepakbola yang berasal dari serie A italia, merupakan tim papan atas dari daratan kota milan</item>
+        <item>Arsenal merupakan club sepakbola yang banyak melahirkan pemain bintang, banyak pemain bintang yang dilahirkan club tersebut</item>
+        <item>club asal spanyol ini merupakan salah satu club raksasa, banyak pemain bintang dalamclub ini</item>
+        <item>Bayern Munchen merupakan raksasa club di liga jerman, bisa di bilang club ini adalah club terkuat di liga tersebut</item>
+        <item>Chelsea merukan club papan atas di liga inggris yang berasal dari london</item>
+        <item>Manchester City adalah club asal kota manchester yang bisa dibilang club sukses</item>
+        <item>Manchester United dengan julukan The Red Devil adalah rival berat manchester city, masa emas club ini pada saat di asuh oleh Sir Alex Ferguson</item>
+        <item>Real Madrid adalah rival sejati barcelona, namun setelah kepergian CR7 kekuatan Real Madrid tidak sebanding dengan barcelona</item>
+    </string-array>
+</resources>
